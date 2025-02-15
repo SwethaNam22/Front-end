@@ -1,6 +1,6 @@
 🍰 E-commerce Bakery Website 🧁
 Overview 🌟
-Welcome to the E-commerce Bakery Website! This project is a fully functional bakery website built with React, HTML, CSS, and JavaScript. The website allows users to explore a delicious bakery menu, sign up, log in, add items to the cart, make payments, and view the footer with important links.
+Welcome to the E-commerce Bakery Website! This project is a fully functional bakery website built with "React, HTML, CSS,Angular and JavaScript". The website allows users to explore a delicious bakery menu, sign up, log in, add items to the cart, make payments, and view the footer with important links.
 
 This is a front-end-only project, aimed at showcasing essential e-commerce features like product exploration, user authentication, shopping cart functionality, and a checkout process.
 
